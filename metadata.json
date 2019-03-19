@@ -1,0 +1,14 @@
+{
+  "visualizer": "./visualizer.js",
+  "fields": [
+    {
+      "id": "sensitivity",
+      "type": "slider",
+      "label": "Tester",
+      "range": [1, 99],
+      "default": 20,
+      "step": 1,
+      "tooltip": "booyeah"
+    }
+  ]
+}
